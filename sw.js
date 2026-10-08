@@ -3,7 +3,7 @@
 // installs in the background and waits; the app switches to it between
 // sessions, never during one.
 
-const VERSION = '172d5db1dec5';
+const VERSION = '63c514b59cc4';
 const ASSETS = [
   "./",
   "./index.html",
@@ -46,11 +46,8 @@ const ASSETS = [
   "./assets/unbounded-manrope-VHEgmj21.css",
   "./assets/web-CJtxFDWF.js",
   "./assets/web-H8yxjMeo.js",
-  "./icons/apple-touch-icon 2.png",
   "./icons/apple-touch-icon.png",
-  "./icons/icon-192 2.png",
   "./icons/icon-192.png",
-  "./icons/icon-512 2.png",
   "./icons/icon-512.png",
   "./manifest.webmanifest"
 ];
