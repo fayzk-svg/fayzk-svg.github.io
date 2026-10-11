@@ -3,7 +3,7 @@
 // installs in the background and waits; the app switches to it between
 // sessions, never during one.
 
-const VERSION = 'eb1d7d1a84a7';
+const VERSION = '021dfd961ed2';
 const ASSETS = [
   "./",
   "./index.html",
@@ -14,9 +14,9 @@ const ASSETS = [
   "./assets/bricolage-grotesque-latin-600-normal-nxTgbNFE.woff2",
   "./assets/bricolage-grotesque-latin-700-normal-gtcctNPv.woff2",
   "./assets/bricolage-grotesque-latin-800-normal-J50vIsBe.woff2",
-  "./assets/esm-COtfTOGB.js",
-  "./assets/esm-D5UVnsxI.js",
-  "./assets/esm-D6a17gGU.js",
+  "./assets/esm-BFxMGlSO.js",
+  "./assets/esm-CXvsdD4V.js",
+  "./assets/esm-N3CZ7TlW.js",
   "./assets/figtree-latin-400-normal-g7Dtegnw.woff2",
   "./assets/figtree-latin-500-normal-BWnGEVsr.woff2",
   "./assets/figtree-latin-600-normal-Cv_xCTDl.woff2",
@@ -25,8 +25,8 @@ const ASSETS = [
   "./assets/ibm-plex-sans-latin-400-normal-CYLoc0-x.woff",
   "./assets/ibm-plex-sans-latin-600-normal-Cu4Hd6ag.woff",
   "./assets/ibm-plex-sans-latin-600-normal-CuJfVYMP.woff2",
-  "./assets/index-ChCbCzCr.js",
-  "./assets/index-DSI1G3e_.css",
+  "./assets/index-BWBSq1ta.js",
+  "./assets/index-Cz7aO6im.css",
   "./assets/manrope-latin-400-normal-PaqtzbVb.woff2",
   "./assets/manrope-latin-500-normal-BYYD-dBL.woff2",
   "./assets/manrope-latin-600-normal-4f0koTD-.woff2",
@@ -45,9 +45,9 @@ const ASSETS = [
   "./assets/unbounded-latin-800-normal-CN2Hxyoo.woff2",
   "./assets/unbounded-manrope-Cc_aJX28.js",
   "./assets/unbounded-manrope-VHEgmj21.css",
-  "./assets/web-BWo0hrAz.js",
-  "./assets/web-B_ztHTOq.js",
-  "./assets/web-BeG2wL49.js",
+  "./assets/web-Bl2V3Otv.js",
+  "./assets/web-CR4ELvJ4.js",
+  "./assets/web-XYMSU5fQ.js",
   "./icons/apple-touch-icon.png",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
